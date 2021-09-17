@@ -1,2 +1,2 @@
 #
-Weather application from react native application but using functional components instead of Class components!
+Weather application from react native application but using functional components instead of Class components
